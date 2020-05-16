@@ -1,0 +1,3 @@
+/Users/windsovo/Code/CLionProjects/DS_lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/windsovo/Code/CLionProjects/DS_lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/windsovo/Code/CLionProjects/DS_lab1/cmake-build-debug/CMakeFiles/DS_lab1.dir

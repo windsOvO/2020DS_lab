@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.cpp
+Huffman.h
+/Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.h
+cstdio
+-
+cstring
+-
+queue
+-
+
+/Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.h
+string
+-
+

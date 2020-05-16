@@ -10,21 +10,9 @@
 string
 -
 
-/Users/windsovo/Code/CLionProjects/DS_lab1/compress.h
-Huffman.h
-/Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.h
-
-/Users/windsovo/Code/CLionProjects/DS_lab1/main.cpp
-iostream
--
+/Users/windsovo/Code/CLionProjects/DS_lab1/compress.cpp
 compress.h
 /Users/windsovo/Code/CLionProjects/DS_lab1/compress.h
-uncompress.h
-/Users/windsovo/Code/CLionProjects/DS_lab1/uncompress.h
-
-/Users/windsovo/Code/CLionProjects/DS_lab1/uncompress.cpp
-uncompress.h
-/Users/windsovo/Code/CLionProjects/DS_lab1/uncompress.h
 cstdio
 -
 cstring
@@ -32,7 +20,7 @@ cstring
 Huffman.h
 /Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.h
 
-/Users/windsovo/Code/CLionProjects/DS_lab1/uncompress.h
+/Users/windsovo/Code/CLionProjects/DS_lab1/compress.h
 Huffman.h
 /Users/windsovo/Code/CLionProjects/DS_lab1/Huffman.h
 

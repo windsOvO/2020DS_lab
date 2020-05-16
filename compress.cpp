@@ -79,8 +79,6 @@ int encode(const char *filename, HuffmanCode pHC, char *&pBuf, int size) // *&pu
     int ch;
     while ((ch = fgetc(fp)) != EOF)
     {
-        unsigned char hc = ch;
-        printf("%d", ch);
         strcat(tmp, pHC[ch]); // copy HC to tmp
         // compress code
         while (strlen(tmp) >= 8)
